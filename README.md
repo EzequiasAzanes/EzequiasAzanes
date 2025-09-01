@@ -18,4 +18,4 @@
 <h3 align="left">Note on Language Statistics</h3>
 <p align="left">The languages displayed above are based on my public repositories. While these represent my proficiency in various programming languages, I also have experience working with additional languages and technologies in private repositories.</p>
 <h3 align="left">I have been involved in projects that utilize:</h3>
-<p align="left">React, React Native, Expo, Expo-SQLite, ExpressJS, NodeJs, Mongoose, MongoDB, JavaScript, TypeScript, Postman </p>
+<p align="left">React, React Native, Expo, Expo-SQLite, ExpressJS, NodeJs, Mongoose, MongoDB, JavaScript, TypeScript, Postman, C#, Dotnet, Entity Framework </p>
